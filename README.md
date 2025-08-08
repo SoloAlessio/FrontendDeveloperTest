@@ -1,10 +1,6 @@
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://dredsoftlabs-admin@bitbucket.org/dredsoftlabs/ecommerce.git
-```
+Download the Project
 
 Go to the project directory
 
@@ -15,10 +11,6 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
-
-  or 
-
   npm install react-material-ui-carousel --save --legacy-peer-deps
 ```
 
